@@ -1,0 +1,2 @@
+ #!/bin/sh
+ /sbin/iptables-restore < /path/to/iptables/rules.persist.fw
