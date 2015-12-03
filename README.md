@@ -2,7 +2,8 @@
 Basic IPTABLES Configuration
 
 Both files are of exact content.<br>
-Any changes to be tested in rules.temp.fw prior to saving.
+Any changes to be tested in rules.temp.fw prior to saving.<br>
+Make sure all paths are changed according to your clone location.
 
 Deploy by the following<br>
 iptables-restore < /path/to/iptables/rules.temp.fw
